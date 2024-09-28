@@ -13,7 +13,6 @@ body {
     justify-content: center;
 }
 
-
 body::before {
     background-image: url("img/code.png");
     background-repeat: no-repeat;
@@ -39,7 +38,6 @@ body::before {
     background-size: 100% 100%;
     position: relative;
 }
-
 
 .container__conteudo {
     display: flex;
@@ -120,7 +118,6 @@ button:disabled {
         font-size: 16px;
     }
 
-
     .texto__paragrafo {
         font-size: 24px;
     }
@@ -137,4 +134,13 @@ button:disabled {
     .container__informacoes {
         padding: 1rem
     }
+}
+
+/* Alterações para melhorar o contraste da mensagem */
+.rvTextRow {
+    background-color: rgba(255, 255, 255, 0.8); /* Fundo branco semi-transparente */
+    padding: 10px;
+    border-radius: 5px;
+    color: #000; /* Texto preto para contraste */
+    font-size: 20px; /* Ajuste o tamanho do texto conforme necessário */
 }
