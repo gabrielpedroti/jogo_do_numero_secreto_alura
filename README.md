@@ -1,8 +1,10 @@
-# Jogo do numero secreto
-Projeto desenvolvido durante a formação: Iniciante em programação da Alura.
+# Jogo do Número Secreto
+Projeto desenvolvido durante a formação: Iniciante em Programação da Alura.
 
-Este projeto teve como base um projeto inicial disponibilizado pela Alura no início da formação. Ao longo dos cursos da formação, fizemos diversas alterações e melhorias no projeto, até chegarmos à versão final.
+Este projeto é uma página web criada com HTML, CSS e JavaScript. Foi desenvolvido a partir de um projeto inicial disponibilizado pela Alura, e ao longo do curso, foram feitas várias melhorias até a versão final.
 
-Optei por não seguir o projeto a risca e fiz algumas pequenas alterações que achei mais interessantes e adequadas ao meu aprendizado.
+Optei por não seguir o projeto à risca e fiz algumas pequenas alterações que achei mais interessantes e adequadas ao meu aprendizado.
+
+Você pode acessar o projeto através do seguinte link: [Jogo do Número Secreto](https://jogo-do-numero-secreto-eta-two.vercel.app/)
 
 Qualquer feedback ou sugestão de melhoria será muito bem-vindo!
