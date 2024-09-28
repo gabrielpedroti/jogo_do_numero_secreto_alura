@@ -1,5 +1,5 @@
 # Jogo do numero secreto
-Projeto desenvolvido durante a formação "Iniciante em programação" da Alura.
+Projeto desenvolvido durante a formação: Iniciante em programação da Alura.
 
 Este projeto teve como base um projeto inicial disponibilizado pela Alura no início da formação. Ao longo dos cursos da formação, fizemos diversas alterações e melhorias no projeto, até chegarmos à versão final.
 
