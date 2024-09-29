@@ -9,8 +9,17 @@ function exibirTextoNaTela(tag, texto) {
 }
 
 function exibirMensagemInicial() {
-    exibirTextoNaTela('h1', 'Jogo do número secreto');
+    let mensagemBoasVindas = 'Bem-vindo ao Jogo do Número Secreto! Vamos jogar?';
+    exibirTextoNaTela('h1', mensagemBoasVindas);
     exibirTextoNaTela('p', 'Digite um número entre 1 e 10:');
+
+    // Exibir a mensagem de narração na tela
+    exibirTextoNaTela('p', 'Deseja ativar a narração do jogo?');
+    
+    // Pergunta ao usuário se deseja ativar a narração
+    if (confirm('Deseja ativar a narração do jogo?')) {
+        responsiveVoice.speak('jogo do número secreto quer usar a fala', 'Brazilian Portuguese Female', {rate: 1.2});
+    }
 }
 
 exibirMensagemInicial();
