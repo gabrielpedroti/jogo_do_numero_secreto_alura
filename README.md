@@ -1,4 +1,5 @@
-# Jogo do Número Secreto
+## **Jogo do Número Secreto**
+
 Projeto desenvolvido durante a formação **Iniciante em Programação** da [Alura](https://www.alura.com.br/).
 
 Este projeto é uma página web criada com **HTML**, **CSS** e **JavaScript**. Foi desenvolvido a partir de um projeto inicial disponibilizado pela Alura, e ao longo do curso, foram feitas várias melhorias até a versão final.
